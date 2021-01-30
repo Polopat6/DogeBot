@@ -1,4 +1,4 @@
 ##API KEYS from binance
 
-API_KEY = '1pyfIhqCSk26EyKt3aPfceDPx5YAV78vp0397zwTbWlVdrRnA4RjCVKP7Kq00qxS'
-API_SECRET = 'SDnHrzuWo3qfTft2Fr2eMl3M2Nxs7DmYGVWzX4r7JBYmaHsfSDp4SDJjBywEDZPp'
+API_KEY = 'Binance API key'
+API_SECRET = 'secret binance key'
